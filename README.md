@@ -61,6 +61,7 @@ https://ip-please.github.io
 | [IP, PLEASE: Modder's Cut · 请出示你的 IP：加长版](https://erasercn.github.io/ip-please/)<br>[源码](https://github.com/EraserCN/ip-please) · [App 下载](https://github.com/EraserCN/ip-please/releases) | [EraserCN](https://github.com/EraserCN) | 延长到 12 天，加了破壁者剧情线和多重结局；第 8–11 天各有新规则和专属角色（指纹浏览器、提示词注入、淘宝学生证……）。有 Android、iOS、macOS 客户端 |
 | [IP, PLEASE：零号档案 · File Zero](https://ip-please-zero.azurpilot.com/)<br>[源码](https://github.com/wess09/ip-please-zero) | 茗（[wess09](https://github.com/wess09)） | 14 天剧情，调查第 0000 号申请，在证据、规则和选择之间走向 30 个结局；九位 AI 旅客（GPT、Qwen、Grok、Kimi、Gemini、大肥鱼……），另有无尽模式 |
 | [IP, PLEASE Mobile · Android 移植版](https://github.com/zhcalvin/ip-please-mobile)<br>[APK 下载](https://github.com/zhcalvin/ip-please-mobile/releases) | [zhcalvin](https://github.com/zhcalvin) | 原版 6 天剧情原样移植到 Android 8.0+，离线可玩，手机和平板横屏触摸，中英双语，切到后台自动暂停 |
+| [IP, PLEASE · 第二周 · Week Two](https://kujoushiori.github.io/ip-please-week-two/)<br>[源码](https://github.com/KujouShiori/ip-please-week-two) | [KujouShiori](https://github.com/KujouShiori) | 原版 6 天原样保留，看完结局可以接着上第二周（第 7–9 天）：被拒的人换一身伪装再来，第 8 天起档案本身会造假，第 9 天审计组来查你自己的判例。5 个结局和跨周目结局图鉴，另有无尽排班模式 |
 
 ## 目录
 
